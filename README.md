@@ -1,3 +1,5 @@
-MV Audio Codec Variant I
+**MV Audio Codec Variant I**
+------------------------------
+
 by BarMan228
 
