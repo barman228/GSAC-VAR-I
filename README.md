@@ -1,4 +1,4 @@
-**MV Audio Codec Variant I**
+**MV Media Codec Variant I**
 ------------------------------
 
 Группа аудиокодеков MVC-1 включает в себя
